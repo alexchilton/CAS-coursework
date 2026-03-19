@@ -1,3 +1,0 @@
-2026-03-19 20:58:17,182 - mlflow.claude_code.tracing - CLAUDE_TRACING - Stop hook: session=cbbe2fcc-f9c6-43b9-86cc-3025c3a225ea, transcript=/Users/alexchilton/.claude/projects/-Users-alexchilton-PycharmProjects-juice-shop/cbbe2fcc-f9c6-43b9-86cc-3025c3a225ea.jsonl
-2026-03-19 20:58:17,188 - mlflow.claude_code.tracing - CLAUDE_TRACING - Creating MLflow trace for session: cbbe2fcc-f9c6-43b9-86cc-3025c3a225ea
-2026-03-19 20:58:17,669 - mlflow.claude_code.tracing - CLAUDE_TRACING - Created MLflow trace: tr-68d92ccfbda27df457b0f0a0ff6b0857
